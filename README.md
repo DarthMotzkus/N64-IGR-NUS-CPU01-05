@@ -1,4 +1,4 @@
-# N64-IGR-NUS-CPU04
+# N64-IGR-NUS-CPU01-05
 N64 In Game Reset using 328P Atmega Arduino Nano board, wires and a 120R 1/4W Resistor to prevent ghost pressing.
 
 
@@ -6,7 +6,7 @@ N64 In Game Reset using 328P Atmega Arduino Nano board, wires and a 120R 1/4W Re
 To reset the console press this combo buttons.
 
 
-##  4 wires only (NUS-CPU04 MODEL follow the example below)
+##  4 wires only (from NUS-CPU01 to NUS-CPU05 MODELS follow the example below, it's the same pinnout)
 ![NUS-CPU-04 IGR Pinouts for Arduino Nano atMega328P](https://github.com/user-attachments/assets/580960df-e8f5-4b84-b69d-99f9a401972b)
 
 Inside image folder there's some instructions for other models too because the serial controller pinout is different, the rest is gonna be the same for all NUS-CPU models.
