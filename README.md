@@ -2,7 +2,7 @@
 N64 In Game Reset using 328P Atmega Arduino Nano board, wires and a 120R 1/4W Resistor to prevent ghost pressing.
 
 
-## IGR COMBO: L+R+A+B+Z
+## IGR COMBO: L+A+B+Z
 To reset the console press this combo buttons.
 
 
